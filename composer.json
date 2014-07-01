@@ -1,0 +1,20 @@
+{
+	"name": "cleantalk/smf-antispam",
+	"description": "Anti-spam MOD for Simple Machine Forum",
+	"keywords": ["smf", "extension", "antispam", "cleantalk"],
+	"homepage": "https://github.com/CleanTalk/smf-antispam",
+	"type": "smf-extension",
+	"license": "GPL-3.0",
+	"authors": [
+		{
+			"name": "Rustam Gumerov",
+			"email": "psrustik@yandex.ru"
+		}
+	],
+	"require": {
+		"php": ">=5.3.0"
+	},
+	"require-dev": {
+		"codeception/codeception": "~2.0"
+	}
+}
